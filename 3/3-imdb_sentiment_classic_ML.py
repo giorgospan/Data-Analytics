@@ -12,39 +12,21 @@ from sklearn.metrics import recall_score
 from sklearn.metrics import f1_score
 from sklearn import preprocessing
 
-#stop words don't help for some reason. w/e
-
 
 #------------Read the csv file and change the encoding----------------
-df_train  = pd.read_csv('../datasets/q2b/train.csv', encoding='utf-8')
-df_train['Question1'] = df_train['Question1'].str.encode('ascii', 'ignore').str.decode('ascii').str.lower().str.replace('[^\w\s]','')
-df_train['Question2'] = df_train['Question2'].str.encode('ascii', 'ignore').str.decode('ascii').str.lower().str.replace('[^\w\s]','')
-df_train['Combined'] = df_train['Question1'] #+ ' ' + df_train['Question2']
-df_train['Combined'].append(df_train['Question2'])
+df_train  = pd.read_csv('../datasets/q3/train.csv', encoding='utf-8')
+df_train['Content'] = df_train['Content'].str.encode('ascii', 'ignore').str.decode('ascii').str.lower().str.replace('<br />','')
 #---------------------------------------------------------------------
 
 
 le = preprocessing.LabelEncoder()
-y = le.fit_transform(df_train['IsDuplicate'])
+y = le.fit_transform(df_train['Label'])
 clf = LinearSVC(random_state=42)
 vectorizer = TfidfVectorizer()
 
-vectorizer.fit(df_train['Combined'].values.astype(str))
+X = vectorizer.fit_transform(df_train['Content'].values.astype(str))
 
 print(len(vectorizer.get_feature_names()))
-
-X1 = vectorizer.transform(df_train['Question1'].values.astype(str))
-X2 = vectorizer.transform(df_train['Question2'].values.astype(str))
-
-#heuristic 1
-#X = X1.multiply(X2)
-#heuristic 2
-#X = abs(X1 + X2)
-
-#heuristic 3
-#best so far X.power(0.7) acc = 78.08
-X = abs(X1 - X2)
-X = X.power(0.7)
 
 #---------------------------------------------------------
 

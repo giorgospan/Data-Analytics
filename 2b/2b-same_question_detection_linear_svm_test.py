@@ -61,6 +61,7 @@ X_test = X_test.power(0.7)
 
 predictions = clf.predict(X_test)
 
+predictions = le.inverse_transform(predictions)
 
 result = pd.DataFrame({'Id':df_test['Id'],'Predicted':predictions})
 result.to_csv('2b_predictions.csv', sep=',', index=False)
