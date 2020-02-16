@@ -4,6 +4,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
 import numpy as np
+import time
 
 size_test = 5374
 
@@ -24,8 +25,11 @@ slices = [slice(0, 1000), slice(1000, 2000), slice(2000, 3000), slice(3000, 4000
 
 num_duplicates = 0
 
+total_time = time.time()
+
 for s in slices:
     Y = cosine_similarity(test_vectors[s], train_vectors)
     num_duplicates += len(np.where((Y > 0.8).any(axis=1))[0])
 
 print('Duplicates: {}'.format(num_duplicates))
+print('Query time: {}'.format(time.time() - total_time))

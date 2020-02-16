@@ -2,12 +2,13 @@
 #https://gist.github.com/santhoshhari/52d8b7acd39c1b744736d7591497ae39#file-hashtable-py
 import numpy as np
 import pandas as pd
+import time
 
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
-hash_size = 4
+hash_size = 10
 
 
 class HashTable:
@@ -35,7 +36,6 @@ df_train['Content'] = df_train['Content'].str.encode('ascii', 'ignore').str.deco
 
 vectorizer = TfidfVectorizer()
 train = vectorizer.fit_transform(df_train['Content'])
-#train = train[:50000]
 
 
 dim = len(vectorizer.get_feature_names())
@@ -44,8 +44,10 @@ h = HashTable(hash_size=hash_size, inp_dimensions=dim)
 
 
 print('Building index...')
+total_time = time.time()
 for i, v in enumerate(train):
-    h[v.toarray()[0]] = i 
+    h[v.toarray()[0]] = i
+print('Build time: {}'.format(time.time() - total_time)) 
 print('Index finished...')
 
 df_test = pd.read_csv('../datasets/q2a/corpusTest.csv', encoding='utf-8')
@@ -53,14 +55,12 @@ df_test['Content'] = df_test['Content'].str.encode('ascii', 'ignore').str.decode
 test = vectorizer.transform(df_test['Content'])
 
 num_duplicates = 0
-
+total_time = time.time()
 for v in test:
 
     L = h[v.toarray()[0]]
     tmp = train[L]
     Y = cosine_similarity(v, tmp)
-    #if len(np.where((Y > 0.8).any(axis=1))[0]) > 1:
-    #    print('Found greater than 1!')
     num_duplicates += len(np.where((Y > 0.8).any(axis=1))[0])
-
-print(num_duplicates)
+print('Query time: {}'.format(time.time() - total_time)) 
+print('Duplicates: {}'.format(num_duplicates))

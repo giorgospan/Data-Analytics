@@ -26,7 +26,7 @@ df['Title'] = df['Title'].str.encode('ascii', 'ignore').str.decode('ascii')
 df['Content'] = df['Content'].str.encode('ascii', 'ignore').str.decode('ascii')
 df['Label'] = df['Label'].str.encode('ascii', 'ignore').str.decode('ascii')
 
-df['Combined']  = df['Title'] + ' ' + df['Content']
+df['Combined']  = df['Title'] + ' ' + df['Title'] + ' ' + df['Title'] + df['Content']
 #---------------------------------------------------------------------
 
 #--------- INITIALIZATIONS -------------

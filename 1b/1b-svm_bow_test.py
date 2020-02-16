@@ -26,7 +26,7 @@ df_train['Title'] = df_train['Title'].str.encode('ascii', 'ignore').str.decode('
 df_train['Content'] = df_train['Content'].str.encode('ascii', 'ignore').str.decode('ascii')
 df_train['Label'] = df_train['Label'].str.encode('ascii', 'ignore').str.decode('ascii')
 
-df_train['Combined']  = df_train['Title'] + ' ' + df_train['Content']
+df_train['Combined']  = df_train['Title'] + ' ' + df_train['Title'] + ' ' + df_train['Title'] + df_train['Content']
 #---------------------------------------------------------------------
 
 #--------- INITIALIZATIONS -------------
@@ -47,7 +47,7 @@ df_test['Title'] = df_test['Title'].str.encode('ascii', 'ignore').str.decode('as
 df_test['Content'] = df_test['Content'].str.encode('ascii', 'ignore').str.decode('ascii')
 
 
-df_test['Combined']  = df_test['Title'] + ' ' + df_test['Content']
+df_test['Combined']  = df_test['Title'] + ' ' + df_test['Title'] + ' ' + df_test['Title'] + ' ' + df_test['Content']
 #---------------------------------------------------------------------
 
 print('Training Linear SVM...')

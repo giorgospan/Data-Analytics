@@ -88,7 +88,7 @@ Id,Predicted
 66791,Technology
 146200,Business
 103785,Health
-32694,Entertainment
+32694,Technology
 156123,Business
 241576,Entertainment
 51746,Technology
@@ -213,7 +213,7 @@ Id,Predicted
 241655,Entertainment
 194666,Entertainment
 202497,Entertainment
-16618,Business
+16618,Technology
 36519,Technology
 43014,Technology
 11654,Technology
@@ -233,7 +233,7 @@ Id,Predicted
 241109,Entertainment
 275312,Entertainment
 33540,Technology
-79133,Health
+79133,Business
 269415,Entertainment
 224629,Entertainment
 80798,Health
@@ -410,7 +410,7 @@ Id,Predicted
 272101,Entertainment
 138260,Technology
 147897,Business
-156602,Business
+156602,Technology
 48826,Technology
 281320,Entertainment
 170113,Business
@@ -444,7 +444,7 @@ Id,Predicted
 231212,Entertainment
 138142,Business
 182040,Business
-105380,Technology
+105380,Business
 14638,Technology
 81812,Health
 140826,Business
@@ -693,7 +693,7 @@ Id,Predicted
 167500,Business
 125078,Business
 155614,Business
-38833,Business
+38833,Entertainment
 275786,Entertainment
 77737,Health
 171458,Business
@@ -731,7 +731,7 @@ Id,Predicted
 153989,Business
 119809,Business
 278689,Entertainment
-103807,Health
+103807,Entertainment
 157349,Business
 154577,Business
 161789,Technology
@@ -834,7 +834,7 @@ Id,Predicted
 87541,Health
 62474,Technology
 260376,Entertainment
-156084,Business
+156084,Entertainment
 56045,Technology
 99165,Health
 92379,Health
@@ -1015,7 +1015,7 @@ Id,Predicted
 124145,Business
 71638,Technology
 43937,Technology
-59887,Entertainment
+59887,Technology
 102991,Health
 193719,Entertainment
 169910,Business
@@ -1025,7 +1025,7 @@ Id,Predicted
 66848,Technology
 215177,Entertainment
 229461,Entertainment
-116740,Technology
+116740,Business
 123915,Business
 16869,Technology
 82037,Health
@@ -1078,7 +1078,7 @@ Id,Predicted
 202675,Entertainment
 37896,Technology
 101151,Health
-966,Technology
+966,Business
 264991,Entertainment
 190261,Entertainment
 87143,Health
@@ -1300,7 +1300,7 @@ Id,Predicted
 244335,Entertainment
 282417,Entertainment
 64691,Technology
-187996,Business
+187996,Entertainment
 115638,Business
 157842,Business
 93127,Health
@@ -1593,7 +1593,7 @@ Id,Predicted
 52954,Technology
 282868,Entertainment
 277122,Entertainment
-213225,Entertainment
+213225,Business
 204601,Entertainment
 163706,Business
 89797,Health
@@ -1830,7 +1830,7 @@ Id,Predicted
 219771,Entertainment
 202379,Entertainment
 23782,Technology
-45813,Technology
+45813,Business
 188119,Entertainment
 54693,Technology
 22225,Technology
@@ -2192,7 +2192,7 @@ Id,Predicted
 121914,Business
 219037,Entertainment
 162557,Business
-122728,Technology
+122728,Business
 90545,Health
 152885,Business
 283430,Entertainment
@@ -2242,7 +2242,7 @@ Id,Predicted
 14420,Technology
 222897,Entertainment
 5656,Technology
-42126,Business
+42126,Technology
 182995,Business
 64948,Technology
 53657,Technology
@@ -2262,7 +2262,7 @@ Id,Predicted
 40236,Business
 187925,Entertainment
 11644,Technology
-129525,Technology
+129525,Business
 113102,Business
 173260,Business
 265898,Entertainment
@@ -2287,7 +2287,7 @@ Id,Predicted
 92253,Health
 270294,Entertainment
 100588,Health
-35580,Technology
+35580,Business
 263236,Entertainment
 154122,Business
 205636,Entertainment
@@ -2327,7 +2327,7 @@ Id,Predicted
 256206,Entertainment
 56142,Technology
 206794,Entertainment
-146624,Technology
+146624,Business
 287328,Entertainment
 6679,Technology
 278571,Entertainment
@@ -2511,7 +2511,7 @@ Id,Predicted
 175365,Business
 1849,Technology
 64220,Technology
-71721,Technology
+71721,Entertainment
 215877,Entertainment
 229893,Entertainment
 34452,Technology
@@ -2904,7 +2904,7 @@ Id,Predicted
 40061,Technology
 96906,Health
 245268,Entertainment
-146252,Technology
+146252,Entertainment
 280558,Entertainment
 266291,Entertainment
 193554,Entertainment
@@ -3069,7 +3069,7 @@ Id,Predicted
 279922,Entertainment
 97029,Health
 252497,Entertainment
-172510,Technology
+172510,Business
 200102,Entertainment
 88540,Health
 271969,Entertainment
@@ -3135,7 +3135,7 @@ Id,Predicted
 167879,Business
 208338,Entertainment
 227530,Entertainment
-129572,Technology
+129572,Business
 184668,Business
 41873,Technology
 29825,Technology
@@ -3267,7 +3267,7 @@ Id,Predicted
 151740,Business
 228213,Entertainment
 227859,Entertainment
-265435,Technology
+265435,Entertainment
 247955,Entertainment
 101106,Health
 105709,Business
@@ -3635,7 +3635,7 @@ Id,Predicted
 254223,Entertainment
 29500,Technology
 35536,Technology
-80195,Entertainment
+80195,Business
 40882,Technology
 112078,Business
 67305,Technology
@@ -3977,7 +3977,7 @@ Id,Predicted
 26307,Technology
 93136,Health
 80008,Health
-168245,Technology
+168245,Business
 178644,Business
 264934,Entertainment
 264070,Entertainment
@@ -4023,7 +4023,7 @@ Id,Predicted
 126197,Business
 183649,Business
 148438,Business
-176875,Technology
+176875,Business
 50951,Technology
 26912,Technology
 278029,Entertainment
@@ -4332,7 +4332,7 @@ Id,Predicted
 20423,Technology
 98368,Health
 9300,Technology
-180476,Business
+180476,Technology
 8488,Technology
 54513,Technology
 214149,Entertainment
@@ -4622,7 +4622,7 @@ Id,Predicted
 69325,Technology
 139511,Business
 58406,Technology
-1539,Entertainment
+1539,Technology
 33115,Technology
 29632,Technology
 98591,Health
@@ -4673,7 +4673,7 @@ Id,Predicted
 255712,Entertainment
 90797,Health
 272926,Entertainment
-180765,Technology
+180765,Business
 190611,Entertainment
 63200,Technology
 56446,Technology
@@ -4699,7 +4699,7 @@ Id,Predicted
 281498,Entertainment
 200376,Entertainment
 107241,Business
-150977,Technology
+150977,Business
 160823,Business
 11611,Technology
 252648,Entertainment
@@ -4845,7 +4845,7 @@ Id,Predicted
 160166,Technology
 167201,Business
 53143,Technology
-103822,Health
+103822,Business
 2653,Technology
 196113,Entertainment
 50847,Technology
@@ -4866,7 +4866,7 @@ Id,Predicted
 288274,Entertainment
 128482,Business
 21217,Technology
-159587,Business
+159587,Technology
 195741,Entertainment
 69617,Technology
 69415,Technology
@@ -5220,7 +5220,7 @@ Id,Predicted
 185908,Entertainment
 158145,Business
 222740,Entertainment
-107422,Technology
+107422,Business
 26306,Technology
 53361,Technology
 24430,Technology
@@ -5362,12 +5362,12 @@ Id,Predicted
 11533,Technology
 54576,Technology
 211761,Entertainment
-146707,Technology
+146707,Business
 22859,Technology
 57645,Technology
 42149,Technology
 222764,Entertainment
-107429,Technology
+107429,Business
 195131,Entertainment
 187904,Entertainment
 80918,Health
@@ -5456,7 +5456,7 @@ Id,Predicted
 83191,Health
 272400,Entertainment
 73649,Health
-98001,Health
+98001,Entertainment
 261031,Entertainment
 208707,Entertainment
 164636,Business
@@ -5693,7 +5693,7 @@ Id,Predicted
 50093,Technology
 110829,Business
 105596,Business
-70422,Business
+70422,Technology
 242257,Entertainment
 283201,Entertainment
 141240,Business
@@ -5707,7 +5707,7 @@ Id,Predicted
 289748,Entertainment
 209884,Entertainment
 270134,Entertainment
-122660,Entertainment
+122660,Business
 154494,Business
 35014,Technology
 113237,Business
@@ -5755,7 +5755,7 @@ Id,Predicted
 36465,Technology
 88,Technology
 101231,Health
-151733,Business
+151733,Technology
 26914,Technology
 286621,Entertainment
 120097,Business
@@ -5833,7 +5833,7 @@ Id,Predicted
 250968,Entertainment
 44309,Technology
 127564,Business
-105979,Business
+105979,Technology
 155090,Business
 218420,Entertainment
 128673,Business
@@ -5987,7 +5987,7 @@ Id,Predicted
 47429,Technology
 27261,Technology
 86105,Health
-73668,Health
+73668,Entertainment
 166258,Business
 176732,Business
 220811,Entertainment
@@ -6078,7 +6078,7 @@ Id,Predicted
 253500,Entertainment
 102679,Health
 15817,Technology
-133503,Technology
+133503,Business
 211115,Entertainment
 139531,Business
 26108,Technology
@@ -6188,7 +6188,7 @@ Id,Predicted
 33871,Technology
 88388,Health
 70468,Technology
-41089,Business
+41089,Technology
 40427,Technology
 221404,Entertainment
 214179,Entertainment
@@ -6394,7 +6394,7 @@ Id,Predicted
 152244,Business
 215503,Entertainment
 251422,Entertainment
-121658,Technology
+121658,Business
 66830,Business
 64302,Technology
 233485,Entertainment
@@ -6994,7 +6994,7 @@ Id,Predicted
 248006,Entertainment
 152637,Business
 18424,Technology
-80281,Business
+80281,Health
 14152,Technology
 193596,Entertainment
 243528,Entertainment
@@ -7022,7 +7022,7 @@ Id,Predicted
 3925,Technology
 152028,Business
 237848,Entertainment
-169481,Business
+169481,Technology
 60121,Technology
 160573,Business
 281093,Entertainment
@@ -7077,7 +7077,7 @@ Id,Predicted
 16147,Technology
 256858,Entertainment
 198420,Entertainment
-189391,Health
+189391,Entertainment
 134132,Business
 249693,Entertainment
 13742,Technology
@@ -7094,7 +7094,7 @@ Id,Predicted
 203745,Entertainment
 207497,Entertainment
 286415,Entertainment
-2990,Business
+2990,Technology
 262030,Entertainment
 27614,Technology
 159848,Business
@@ -7330,7 +7330,7 @@ Id,Predicted
 197337,Entertainment
 18916,Technology
 212439,Entertainment
-145273,Business
+145273,Technology
 52177,Technology
 246317,Entertainment
 144680,Business
@@ -7452,7 +7452,7 @@ Id,Predicted
 83374,Health
 244930,Entertainment
 27459,Technology
-146211,Technology
+146211,Business
 120482,Business
 4817,Technology
 114581,Business
@@ -7669,7 +7669,7 @@ Id,Predicted
 280070,Entertainment
 20674,Technology
 182227,Business
-249737,Technology
+249737,Entertainment
 281020,Entertainment
 116091,Technology
 217856,Entertainment
@@ -7690,7 +7690,7 @@ Id,Predicted
 164182,Business
 196385,Entertainment
 149976,Business
-152529,Technology
+152529,Business
 101497,Health
 63041,Technology
 263039,Entertainment
@@ -8099,7 +8099,7 @@ Id,Predicted
 43357,Technology
 71778,Technology
 55594,Technology
-77408,Business
+77408,Health
 146309,Business
 115383,Business
 11851,Technology
@@ -8304,7 +8304,7 @@ Id,Predicted
 120332,Business
 226197,Entertainment
 107089,Business
-223578,Technology
+223578,Entertainment
 148234,Business
 257063,Entertainment
 48541,Technology
@@ -8412,7 +8412,7 @@ Id,Predicted
 246396,Entertainment
 260351,Entertainment
 34008,Technology
-133305,Business
+133305,Technology
 209923,Entertainment
 151541,Business
 289955,Entertainment
@@ -8479,7 +8479,7 @@ Id,Predicted
 181576,Business
 191917,Entertainment
 124840,Business
-10579,Business
+10579,Technology
 170100,Business
 174019,Business
 277212,Entertainment
@@ -8704,7 +8704,7 @@ Id,Predicted
 164387,Business
 112372,Business
 159592,Business
-46787,Business
+46787,Technology
 257994,Entertainment
 86228,Health
 274983,Entertainment
@@ -8712,7 +8712,7 @@ Id,Predicted
 6124,Technology
 173720,Business
 62695,Technology
-56744,Entertainment
+56744,Technology
 152046,Business
 199134,Entertainment
 85262,Health
@@ -8891,7 +8891,7 @@ Id,Predicted
 80216,Health
 44735,Technology
 135815,Business
-178687,Entertainment
+178687,Business
 275714,Entertainment
 97768,Health
 195800,Entertainment
@@ -8949,7 +8949,7 @@ Id,Predicted
 13695,Technology
 124715,Business
 112620,Business
-224360,Business
+224360,Entertainment
 245885,Entertainment
 123244,Business
 83976,Health
@@ -8988,7 +8988,7 @@ Id,Predicted
 183383,Business
 68532,Technology
 27474,Technology
-55610,Entertainment
+55610,Technology
 109650,Technology
 221369,Entertainment
 88542,Health
@@ -9130,7 +9130,7 @@ Id,Predicted
 39182,Technology
 229453,Entertainment
 86941,Health
-173816,Business
+173816,Technology
 151141,Business
 77168,Health
 79034,Health
@@ -9181,7 +9181,7 @@ Id,Predicted
 94008,Health
 166340,Business
 227963,Entertainment
-34840,Business
+34840,Technology
 141157,Business
 276079,Entertainment
 275037,Entertainment
@@ -9284,7 +9284,7 @@ Id,Predicted
 270084,Entertainment
 156544,Technology
 179846,Business
-4576,Technology
+4576,Business
 124982,Business
 57859,Technology
 31563,Technology
@@ -10036,7 +10036,7 @@ Id,Predicted
 156383,Business
 206051,Entertainment
 228834,Entertainment
-25871,Business
+25871,Technology
 45849,Technology
 3262,Technology
 197219,Entertainment
@@ -10047,7 +10047,7 @@ Id,Predicted
 122244,Business
 46750,Technology
 157808,Business
-139173,Business
+139173,Health
 223109,Entertainment
 49805,Technology
 64735,Technology
@@ -10208,7 +10208,7 @@ Id,Predicted
 145756,Business
 286131,Entertainment
 249684,Entertainment
-176874,Business
+176874,Technology
 130523,Business
 226375,Entertainment
 164573,Business
@@ -10604,7 +10604,7 @@ Id,Predicted
 138617,Business
 66624,Technology
 172406,Business
-231769,Entertainment
+231769,Technology
 104989,Health
 200784,Entertainment
 20436,Technology
@@ -10840,7 +10840,7 @@ Id,Predicted
 57359,Technology
 209424,Entertainment
 123680,Business
-95706,Health
+95706,Business
 151351,Business
 68247,Technology
 189587,Entertainment
@@ -10944,7 +10944,7 @@ Id,Predicted
 10692,Technology
 219757,Entertainment
 231205,Entertainment
-207077,Entertainment
+207077,Technology
 45356,Technology
 266993,Health
 95579,Health
@@ -11327,7 +11327,7 @@ Id,Predicted
 39826,Technology
 33576,Technology
 264330,Entertainment
-94740,Business
+94740,Health
 282885,Entertainment
 234057,Entertainment
 197181,Entertainment
@@ -11424,7 +11424,7 @@ Id,Predicted
 218514,Entertainment
 156537,Technology
 98729,Health
-106559,Entertainment
+106559,Health
 285672,Entertainment
 43868,Technology
 190937,Entertainment
@@ -11672,7 +11672,7 @@ Id,Predicted
 283515,Entertainment
 76949,Health
 242476,Entertainment
-150688,Business
+150688,Technology
 204567,Entertainment
 190954,Entertainment
 210112,Entertainment
@@ -12000,7 +12000,7 @@ Id,Predicted
 37069,Technology
 54411,Technology
 280742,Entertainment
-220733,Business
+220733,Entertainment
 74539,Health
 125257,Business
 290058,Entertainment
@@ -12251,7 +12251,7 @@ Id,Predicted
 88416,Health
 190438,Entertainment
 125500,Business
-38974,Technology
+38974,Business
 288923,Entertainment
 44478,Technology
 206663,Entertainment
@@ -12294,7 +12294,7 @@ Id,Predicted
 170478,Business
 254855,Entertainment
 254756,Entertainment
-51985,Technology
+51985,Business
 200247,Entertainment
 274798,Entertainment
 73021,Health
@@ -12412,7 +12412,7 @@ Id,Predicted
 146517,Business
 143061,Business
 186160,Entertainment
-101894,Health
+101894,Technology
 47508,Technology
 218205,Entertainment
 151767,Business
@@ -12607,7 +12607,7 @@ Id,Predicted
 266884,Entertainment
 290244,Entertainment
 32433,Technology
-159813,Technology
+159813,Business
 43275,Technology
 279207,Entertainment
 288848,Entertainment
@@ -12797,7 +12797,7 @@ Id,Predicted
 138803,Business
 87723,Health
 61464,Technology
-261099,Business
+261099,Entertainment
 222692,Entertainment
 104224,Health
 51707,Technology
@@ -13484,7 +13484,7 @@ Id,Predicted
 163238,Business
 248181,Entertainment
 186316,Entertainment
-67263,Entertainment
+67263,Technology
 125125,Business
 148068,Business
 270745,Entertainment
@@ -13624,7 +13624,7 @@ Id,Predicted
 35226,Technology
 148173,Business
 44965,Technology
-51517,Business
+51517,Technology
 267009,Entertainment
 7119,Technology
 208012,Entertainment
@@ -13850,7 +13850,7 @@ Id,Predicted
 28147,Technology
 179058,Business
 48902,Technology
-147367,Entertainment
+147367,Business
 32947,Technology
 63669,Technology
 255082,Entertainment
@@ -13898,7 +13898,7 @@ Id,Predicted
 194520,Entertainment
 49641,Technology
 221201,Entertainment
-286923,Technology
+286923,Entertainment
 223628,Entertainment
 23297,Technology
 252220,Entertainment
@@ -14008,7 +14008,7 @@ Id,Predicted
 186011,Entertainment
 157014,Business
 172164,Business
-51494,Technology
+51494,Business
 261668,Entertainment
 203488,Entertainment
 258481,Entertainment
@@ -14252,7 +14252,7 @@ Id,Predicted
 196649,Entertainment
 70261,Technology
 154732,Business
-106538,Technology
+106538,Business
 150929,Business
 197474,Entertainment
 152878,Business
@@ -14424,7 +14424,7 @@ Id,Predicted
 174723,Business
 7929,Business
 217664,Entertainment
-67111,Business
+67111,Technology
 271329,Entertainment
 140764,Business
 185179,Entertainment
@@ -14839,7 +14839,7 @@ Id,Predicted
 205199,Entertainment
 89108,Health
 237942,Entertainment
-262055,Health
+262055,Entertainment
 93615,Health
 86945,Health
 85331,Health
@@ -14985,7 +14985,7 @@ Id,Predicted
 53674,Technology
 243388,Entertainment
 230993,Entertainment
-84270,Business
+84270,Health
 1907,Technology
 119991,Business
 215736,Entertainment
@@ -15006,7 +15006,7 @@ Id,Predicted
 146551,Business
 275002,Entertainment
 204596,Entertainment
-5651,Technology
+5651,Entertainment
 163651,Business
 205811,Entertainment
 225477,Entertainment
@@ -15017,7 +15017,7 @@ Id,Predicted
 117047,Business
 174143,Business
 24016,Technology
-14972,Technology
+14972,Business
 255140,Business
 225995,Entertainment
 227649,Entertainment
@@ -15109,7 +15109,7 @@ Id,Predicted
 39469,Business
 98843,Health
 9512,Technology
-45836,Technology
+45836,Business
 154222,Technology
 128969,Business
 227944,Entertainment
@@ -15278,7 +15278,7 @@ Id,Predicted
 73888,Health
 278655,Entertainment
 128005,Business
-172331,Technology
+172331,Business
 205643,Entertainment
 147657,Business
 136281,Business
@@ -15499,7 +15499,7 @@ Id,Predicted
 18406,Technology
 155588,Business
 243219,Entertainment
-101347,Health
+101347,Business
 103146,Health
 202472,Entertainment
 234791,Entertainment
@@ -15637,7 +15637,7 @@ Id,Predicted
 150691,Business
 78754,Health
 240589,Entertainment
-233001,Health
+233001,Technology
 160725,Business
 219869,Entertainment
 198793,Entertainment
@@ -15654,7 +15654,7 @@ Id,Predicted
 254726,Entertainment
 259041,Entertainment
 81302,Health
-131780,Business
+131780,Technology
 268117,Entertainment
 149173,Technology
 81030,Health
@@ -15704,7 +15704,7 @@ Id,Predicted
 47713,Technology
 287152,Entertainment
 67248,Technology
-15004,Business
+15004,Technology
 105987,Technology
 217655,Entertainment
 137332,Business
@@ -15768,7 +15768,7 @@ Id,Predicted
 160542,Business
 77188,Health
 188606,Entertainment
-123664,Business
+123664,Health
 250798,Entertainment
 159032,Business
 26672,Technology
@@ -16024,7 +16024,7 @@ Id,Predicted
 2878,Technology
 49264,Technology
 205752,Entertainment
-106898,Technology
+106898,Business
 70184,Technology
 215523,Entertainment
 204428,Entertainment
@@ -16378,7 +16378,7 @@ Id,Predicted
 190733,Entertainment
 38772,Technology
 33643,Technology
-155284,Technology
+155284,Business
 76750,Health
 58116,Technology
 151350,Business
@@ -16948,7 +16948,7 @@ Id,Predicted
 203956,Entertainment
 28787,Technology
 130920,Business
-110891,Health
+110891,Business
 37700,Technology
 216745,Entertainment
 194636,Entertainment
@@ -17027,7 +17027,7 @@ Id,Predicted
 3651,Technology
 237115,Entertainment
 267064,Entertainment
-178,Technology
+178,Business
 155111,Business
 251561,Entertainment
 113200,Business
@@ -17182,7 +17182,7 @@ Id,Predicted
 20977,Technology
 229859,Entertainment
 137937,Business
-116078,Technology
+116078,Business
 224592,Entertainment
 95139,Health
 163750,Business
@@ -17482,7 +17482,7 @@ Id,Predicted
 157454,Business
 227056,Entertainment
 177510,Business
-154427,Technology
+154427,Business
 134,Technology
 138851,Business
 265071,Entertainment
@@ -17757,7 +17757,7 @@ Id,Predicted
 35124,Technology
 252996,Entertainment
 52008,Technology
-10517,Business
+10517,Technology
 16312,Technology
 63054,Technology
 95828,Health
@@ -17782,7 +17782,7 @@ Id,Predicted
 184944,Entertainment
 270158,Entertainment
 36153,Technology
-28560,Business
+28560,Technology
 229202,Entertainment
 98419,Health
 233979,Entertainment
@@ -17898,7 +17898,7 @@ Id,Predicted
 204347,Entertainment
 241073,Entertainment
 51874,Technology
-212849,Entertainment
+212849,Business
 172616,Business
 20,Technology
 85174,Health
@@ -18035,7 +18035,7 @@ Id,Predicted
 181647,Business
 138896,Business
 65687,Technology
-62784,Business
+62784,Technology
 139902,Business
 145594,Business
 156028,Business
@@ -18067,7 +18067,7 @@ Id,Predicted
 23902,Technology
 161926,Business
 232120,Entertainment
-268077,Business
+268077,Entertainment
 11557,Technology
 237644,Entertainment
 226236,Entertainment
@@ -18250,11 +18250,11 @@ Id,Predicted
 124201,Business
 184902,Entertainment
 155293,Business
-105350,Technology
+105350,Business
 3461,Technology
 30505,Technology
 34661,Technology
-244579,Business
+244579,Entertainment
 251095,Entertainment
 83029,Health
 252699,Entertainment
@@ -19041,7 +19041,7 @@ Id,Predicted
 35398,Technology
 204130,Entertainment
 189239,Entertainment
-138220,Business
+138220,Technology
 129521,Business
 267376,Entertainment
 107534,Business
@@ -19308,7 +19308,7 @@ Id,Predicted
 167860,Business
 140463,Business
 112733,Business
-80212,Business
+80212,Health
 261759,Entertainment
 80859,Health
 70163,Technology
@@ -19681,7 +19681,7 @@ Id,Predicted
 41235,Technology
 103553,Health
 5635,Technology
-244223,Business
+244223,Entertainment
 135879,Business
 168083,Business
 124057,Business
@@ -19878,7 +19878,7 @@ Id,Predicted
 86668,Health
 275424,Entertainment
 168952,Business
-8514,Technology
+8514,Business
 230809,Entertainment
 132766,Business
 223214,Entertainment
@@ -20162,7 +20162,7 @@ Id,Predicted
 237338,Entertainment
 59052,Technology
 218128,Entertainment
-14984,Technology
+14984,Business
 66175,Technology
 255246,Entertainment
 36184,Technology
@@ -20353,13 +20353,13 @@ Id,Predicted
 8107,Technology
 111459,Business
 245941,Entertainment
-267288,Health
+267288,Entertainment
 16688,Technology
 183638,Business
 243996,Entertainment
 106752,Business
 153674,Business
-48943,Business
+48943,Technology
 209034,Entertainment
 168570,Business
 42642,Technology
@@ -20421,7 +20421,7 @@ Id,Predicted
 140807,Business
 13992,Technology
 78848,Health
-86511,Technology
+86511,Health
 115698,Business
 282399,Entertainment
 133563,Business
@@ -20507,7 +20507,7 @@ Id,Predicted
 2451,Technology
 6432,Technology
 3454,Technology
-162428,Technology
+162428,Business
 58613,Technology
 237801,Entertainment
 265668,Entertainment
@@ -20695,7 +20695,7 @@ Id,Predicted
 254286,Entertainment
 239937,Entertainment
 114219,Business
-255135,Technology
+255135,Entertainment
 236032,Entertainment
 285138,Entertainment
 115310,Business
@@ -21249,7 +21249,7 @@ Id,Predicted
 101509,Health
 245019,Entertainment
 150708,Business
-68598,Business
+68598,Technology
 112004,Business
 25227,Technology
 36423,Technology
@@ -21714,7 +21714,7 @@ Id,Predicted
 66827,Technology
 88746,Health
 262121,Entertainment
-75896,Technology
+75896,Health
 195696,Entertainment
 26534,Technology
 270571,Entertainment
@@ -21930,7 +21930,7 @@ Id,Predicted
 251187,Entertainment
 160626,Business
 186833,Entertainment
-63733,Business
+63733,Technology
 269863,Entertainment
 197357,Entertainment
 206046,Entertainment
@@ -22129,7 +22129,7 @@ Id,Predicted
 94504,Health
 15776,Technology
 2575,Technology
-56032,Business
+56032,Technology
 266753,Entertainment
 30430,Technology
 66814,Technology
@@ -22163,9 +22163,9 @@ Id,Predicted
 281045,Entertainment
 274700,Entertainment
 218357,Entertainment
-24411,Business
+24411,Technology
 81850,Health
-15410,Technology
+15410,Business
 219689,Entertainment
 281328,Entertainment
 153095,Business
@@ -22176,7 +22176,7 @@ Id,Predicted
 31540,Technology
 162395,Technology
 57544,Technology
-142076,Business
+142076,Entertainment
 195501,Entertainment
 122154,Business
 242145,Entertainment
@@ -22185,7 +22185,7 @@ Id,Predicted
 98040,Health
 1918,Technology
 230936,Entertainment
-28588,Business
+28588,Technology
 103308,Business
 165479,Business
 214906,Entertainment
@@ -22205,7 +22205,7 @@ Id,Predicted
 104150,Health
 210271,Entertainment
 169306,Business
-22486,Entertainment
+22486,Technology
 64077,Technology
 56508,Technology
 180081,Business
@@ -22301,7 +22301,7 @@ Id,Predicted
 159503,Business
 288809,Entertainment
 274881,Entertainment
-107067,Business
+107067,Technology
 242607,Entertainment
 273267,Entertainment
 62812,Technology
@@ -22551,7 +22551,7 @@ Id,Predicted
 280014,Entertainment
 250971,Entertainment
 221991,Entertainment
-9691,Business
+9691,Health
 277178,Entertainment
 151295,Business
 161359,Business
@@ -22560,7 +22560,7 @@ Id,Predicted
 232809,Entertainment
 290801,Entertainment
 196020,Entertainment
-142511,Business
+142511,Technology
 29748,Technology
 48347,Technology
 28460,Technology
@@ -22588,7 +22588,7 @@ Id,Predicted
 250639,Entertainment
 193260,Entertainment
 267277,Entertainment
-146349,Technology
+146349,Business
 112981,Business
 215886,Entertainment
 240237,Entertainment
@@ -23522,7 +23522,7 @@ Id,Predicted
 43291,Technology
 255393,Entertainment
 231605,Entertainment
-18689,Business
+18689,Technology
 226716,Entertainment
 279846,Entertainment
 143099,Business
@@ -23939,7 +23939,7 @@ Id,Predicted
 172392,Business
 289756,Entertainment
 112045,Business
-156667,Technology
+156667,Business
 229358,Entertainment
 175069,Business
 120322,Business
@@ -23956,7 +23956,7 @@ Id,Predicted
 202942,Entertainment
 88701,Health
 60139,Technology
-5888,Health
+5888,Technology
 200716,Entertainment
 8405,Technology
 37621,Technology
@@ -24049,7 +24049,7 @@ Id,Predicted
 100186,Health
 192418,Entertainment
 72162,Technology
-117448,Technology
+117448,Business
 223336,Entertainment
 156719,Business
 251421,Entertainment
@@ -24172,7 +24172,7 @@ Id,Predicted
 224506,Entertainment
 214890,Entertainment
 226352,Entertainment
-86985,Business
+86985,Health
 68667,Technology
 71290,Technology
 244695,Entertainment
@@ -24223,7 +24223,7 @@ Id,Predicted
 238048,Entertainment
 269608,Entertainment
 42048,Technology
-6888,Business
+6888,Technology
 186802,Entertainment
 28007,Technology
 115747,Business
@@ -24284,7 +24284,7 @@ Id,Predicted
 174751,Business
 215344,Entertainment
 48177,Technology
-46413,Business
+46413,Technology
 212785,Entertainment
 187479,Entertainment
 242491,Entertainment
@@ -24382,7 +24382,7 @@ Id,Predicted
 244088,Entertainment
 95352,Health
 265296,Entertainment
-174020,Technology
+174020,Business
 219635,Entertainment
 14924,Technology
 9171,Technology
@@ -24679,7 +24679,7 @@ Id,Predicted
 231254,Entertainment
 188024,Entertainment
 13280,Technology
-45821,Technology
+45821,Business
 147374,Business
 78322,Health
 227486,Entertainment
@@ -24762,7 +24762,7 @@ Id,Predicted
 79125,Health
 44061,Technology
 29390,Technology
-260974,Business
+260974,Entertainment
 199367,Entertainment
 48655,Technology
 22407,Technology
@@ -24867,7 +24867,7 @@ Id,Predicted
 111314,Business
 151045,Business
 58219,Technology
-31466,Technology
+31466,Business
 118554,Business
 187476,Entertainment
 276090,Entertainment
@@ -24920,7 +24920,7 @@ Id,Predicted
 237104,Entertainment
 59854,Technology
 243106,Entertainment
-131428,Business
+131428,Technology
 286095,Entertainment
 3,Technology
 122383,Business
@@ -25076,7 +25076,7 @@ Id,Predicted
 13402,Technology
 289145,Entertainment
 188780,Entertainment
-70323,Technology
+70323,Business
 205358,Entertainment
 239047,Entertainment
 216910,Entertainment
@@ -25324,7 +25324,7 @@ Id,Predicted
 177711,Business
 137248,Business
 107700,Business
-31290,Business
+31290,Technology
 154772,Business
 202820,Entertainment
 33071,Technology
@@ -25492,7 +25492,7 @@ Id,Predicted
 157347,Business
 277060,Entertainment
 159350,Business
-142085,Business
+142085,Technology
 45667,Technology
 8582,Technology
 225247,Entertainment
@@ -25609,7 +25609,7 @@ Id,Predicted
 250365,Entertainment
 264383,Entertainment
 64287,Technology
-269089,Technology
+269089,Entertainment
 177354,Business
 211276,Entertainment
 91425,Health
@@ -25742,7 +25742,7 @@ Id,Predicted
 265067,Entertainment
 123395,Business
 276122,Entertainment
-69866,Business
+69866,Technology
 165976,Business
 119289,Business
 206333,Entertainment
@@ -26098,7 +26098,7 @@ Id,Predicted
 182985,Business
 1244,Technology
 44806,Technology
-264672,Entertainment
+264672,Business
 94281,Health
 255531,Entertainment
 273303,Entertainment
@@ -26109,7 +26109,7 @@ Id,Predicted
 150080,Business
 14250,Technology
 176533,Business
-253298,Health
+253298,Entertainment
 239977,Entertainment
 91736,Health
 237467,Entertainment
@@ -26460,7 +26460,7 @@ Id,Predicted
 70637,Technology
 35235,Technology
 244358,Entertainment
-118330,Business
+118330,Technology
 91721,Health
 151378,Business
 254013,Entertainment
@@ -26485,7 +26485,7 @@ Id,Predicted
 286949,Entertainment
 237992,Entertainment
 53127,Technology
-93628,Health
+93628,Business
 209475,Entertainment
 177347,Business
 33479,Technology
@@ -26628,7 +26628,7 @@ Id,Predicted
 28774,Technology
 154511,Business
 22261,Technology
-21271,Business
+21271,Technology
 252605,Entertainment
 246312,Entertainment
 152501,Business
@@ -26724,7 +26724,7 @@ Id,Predicted
 127536,Business
 201911,Entertainment
 289018,Entertainment
-151142,Technology
+151142,Business
 185442,Entertainment
 62408,Technology
 87971,Health
@@ -26913,7 +26913,7 @@ Id,Predicted
 222748,Entertainment
 192409,Entertainment
 159137,Business
-110368,Technology
+110368,Business
 203122,Entertainment
 41680,Technology
 194113,Entertainment
@@ -27549,7 +27549,7 @@ Id,Predicted
 213012,Entertainment
 264113,Entertainment
 16954,Technology
-39467,Business
+39467,Technology
 196008,Entertainment
 181888,Business
 1245,Technology
@@ -27642,7 +27642,7 @@ Id,Predicted
 207454,Entertainment
 273,Technology
 290736,Entertainment
-45878,Technology
+45878,Business
 101886,Health
 263251,Entertainment
 15858,Technology
@@ -28214,7 +28214,7 @@ Id,Predicted
 290611,Entertainment
 38872,Technology
 269571,Entertainment
-13563,Technology
+13563,Business
 143152,Business
 114362,Business
 243024,Entertainment
@@ -28261,7 +28261,7 @@ Id,Predicted
 239497,Entertainment
 98797,Health
 69133,Technology
-5638,Technology
+5638,Business
 3126,Business
 254751,Entertainment
 11693,Technology
@@ -28469,7 +28469,7 @@ Id,Predicted
 123226,Business
 285542,Entertainment
 163293,Business
-119746,Health
+119746,Business
 75227,Health
 233958,Entertainment
 175005,Business
@@ -28630,7 +28630,7 @@ Id,Predicted
 114473,Business
 197894,Entertainment
 105789,Business
-80775,Health
+80775,Entertainment
 267880,Entertainment
 151556,Business
 276739,Entertainment
@@ -28769,14 +28769,14 @@ Id,Predicted
 251617,Entertainment
 54212,Technology
 236654,Entertainment
-178715,Business
+178715,Technology
 22723,Technology
 112344,Business
 2215,Technology
 277214,Entertainment
 248416,Entertainment
 142664,Business
-117737,Business
+117737,Technology
 282518,Entertainment
 245750,Entertainment
 157267,Business
@@ -28913,7 +28913,7 @@ Id,Predicted
 231626,Entertainment
 154496,Business
 228121,Entertainment
-28299,Technology
+28299,Business
 178649,Business
 270066,Entertainment
 173412,Business
@@ -29031,7 +29031,7 @@ Id,Predicted
 274322,Entertainment
 222330,Entertainment
 106587,Business
-53599,Technology
+53599,Business
 209082,Entertainment
 72666,Health
 68285,Technology
@@ -29743,7 +29743,7 @@ Id,Predicted
 283036,Entertainment
 108683,Business
 100766,Health
-127115,Health
+127115,Business
 230080,Entertainment
 46987,Technology
 235805,Entertainment
@@ -29781,9 +29781,9 @@ Id,Predicted
 192855,Entertainment
 233765,Entertainment
 225021,Business
-149493,Business
+149493,Health
 284157,Entertainment
-86423,Business
+86423,Health
 3308,Technology
 268735,Entertainment
 46730,Technology
@@ -30046,7 +30046,7 @@ Id,Predicted
 885,Technology
 211398,Entertainment
 39414,Technology
-61891,Entertainment
+61891,Business
 284578,Entertainment
 115330,Business
 253891,Entertainment
@@ -30398,7 +30398,7 @@ Id,Predicted
 230863,Entertainment
 226403,Entertainment
 211549,Entertainment
-90230,Business
+90230,Health
 105468,Business
 221716,Entertainment
 48882,Technology
@@ -30516,7 +30516,7 @@ Id,Predicted
 159417,Business
 131389,Technology
 173873,Business
-80213,Entertainment
+80213,Health
 235575,Entertainment
 94405,Health
 103551,Health
@@ -30961,7 +30961,7 @@ Id,Predicted
 282698,Entertainment
 190678,Entertainment
 192479,Entertainment
-145436,Entertainment
+145436,Business
 146245,Business
 278635,Entertainment
 203269,Entertainment
@@ -31084,14 +31084,14 @@ Id,Predicted
 273756,Entertainment
 239453,Entertainment
 183112,Business
-143214,Technology
+143214,Health
 126416,Business
 132799,Business
 16678,Technology
 32975,Technology
 64896,Business
 175782,Business
-145477,Business
+145477,Entertainment
 162474,Technology
 35307,Technology
 279034,Entertainment
@@ -31316,7 +31316,7 @@ Id,Predicted
 189191,Entertainment
 116115,Technology
 18109,Technology
-156420,Technology
+156420,Business
 14139,Technology
 40225,Technology
 128123,Business
@@ -31330,7 +31330,7 @@ Id,Predicted
 170003,Business
 244520,Entertainment
 254902,Entertainment
-43107,Entertainment
+43107,Technology
 16956,Technology
 266564,Entertainment
 198456,Entertainment
@@ -31745,7 +31745,7 @@ Id,Predicted
 284727,Entertainment
 35284,Technology
 261210,Entertainment
-206318,Technology
+206318,Entertainment
 261134,Entertainment
 23121,Technology
 201928,Entertainment
@@ -31806,7 +31806,7 @@ Id,Predicted
 10557,Technology
 31386,Technology
 89414,Health
-266550,Technology
+266550,Entertainment
 212640,Entertainment
 185485,Entertainment
 234734,Entertainment
@@ -31830,7 +31830,7 @@ Id,Predicted
 266568,Entertainment
 185814,Entertainment
 1694,Technology
-89622,Health
+89622,Business
 30327,Technology
 241417,Entertainment
 65963,Technology
@@ -32369,7 +32369,7 @@ Id,Predicted
 202371,Entertainment
 67187,Technology
 209429,Entertainment
-272408,Entertainment
+272408,Technology
 83971,Health
 177559,Business
 131218,Business
@@ -32462,7 +32462,7 @@ Id,Predicted
 255006,Entertainment
 7766,Technology
 79814,Health
-34708,Technology
+34708,Business
 233062,Entertainment
 288861,Entertainment
 55162,Technology
@@ -32704,7 +32704,7 @@ Id,Predicted
 35306,Technology
 76277,Health
 181323,Business
-45428,Entertainment
+45428,Technology
 42249,Technology
 267576,Entertainment
 199836,Entertainment
@@ -32876,7 +32876,7 @@ Id,Predicted
 220932,Entertainment
 9471,Technology
 290598,Entertainment
-147087,Technology
+147087,Business
 41144,Technology
 286430,Entertainment
 65701,Technology
@@ -33210,7 +33210,7 @@ Id,Predicted
 67502,Technology
 93209,Health
 262345,Entertainment
-129423,Business
+129423,Technology
 277564,Entertainment
 196213,Entertainment
 60517,Technology
@@ -33232,7 +33232,7 @@ Id,Predicted
 169772,Business
 55422,Technology
 166874,Business
-165494,Business
+165494,Technology
 265763,Entertainment
 161662,Business
 203899,Entertainment
@@ -33301,7 +33301,7 @@ Id,Predicted
 228686,Entertainment
 135117,Business
 14451,Technology
-172003,Technology
+172003,Business
 83150,Health
 145752,Business
 201274,Entertainment
@@ -33456,7 +33456,7 @@ Id,Predicted
 203031,Entertainment
 282857,Entertainment
 189795,Entertainment
-33720,Technology
+33720,Business
 270298,Entertainment
 190207,Entertainment
 30003,Technology
@@ -33710,7 +33710,7 @@ Id,Predicted
 206352,Entertainment
 13930,Technology
 216027,Entertainment
-152153,Business
+152153,Entertainment
 125211,Business
 249415,Entertainment
 162161,Business
@@ -33803,7 +33803,7 @@ Id,Predicted
 180022,Business
 232398,Entertainment
 254280,Entertainment
-70056,Technology
+70056,Business
 186754,Entertainment
 268207,Entertainment
 233138,Entertainment
@@ -34224,7 +34224,7 @@ Id,Predicted
 196993,Entertainment
 33211,Technology
 222038,Entertainment
-150930,Technology
+150930,Business
 202046,Entertainment
 227358,Entertainment
 200344,Entertainment
@@ -34427,7 +34427,7 @@ Id,Predicted
 241299,Entertainment
 4981,Technology
 213899,Entertainment
-49033,Technology
+49033,Business
 149617,Business
 152255,Business
 228479,Entertainment
@@ -34923,7 +34923,7 @@ Id,Predicted
 88375,Health
 85146,Health
 30758,Technology
-80603,Business
+80603,Entertainment
 110243,Technology
 241984,Entertainment
 166679,Business
@@ -35122,7 +35122,7 @@ Id,Predicted
 148094,Business
 266329,Entertainment
 285287,Entertainment
-172008,Technology
+172008,Business
 221459,Entertainment
 121342,Business
 278492,Entertainment
@@ -35208,7 +35208,7 @@ Id,Predicted
 206322,Entertainment
 239989,Entertainment
 193970,Entertainment
-86517,Entertainment
+86517,Health
 191902,Entertainment
 161765,Business
 255384,Entertainment
@@ -35246,7 +35246,7 @@ Id,Predicted
 41402,Technology
 50443,Technology
 13110,Technology
-103860,Technology
+103860,Health
 229684,Entertainment
 239224,Entertainment
 255699,Entertainment
@@ -35417,7 +35417,7 @@ Id,Predicted
 8223,Technology
 110913,Business
 273050,Entertainment
-695,Business
+695,Technology
 210183,Entertainment
 44207,Technology
 204858,Entertainment
@@ -36072,7 +36072,7 @@ Id,Predicted
 231502,Entertainment
 246046,Entertainment
 281812,Entertainment
-185573,Entertainment
+185573,Technology
 272891,Entertainment
 247546,Entertainment
 66184,Entertainment
@@ -36085,7 +36085,7 @@ Id,Predicted
 162206,Business
 45590,Technology
 228931,Entertainment
-131272,Business
+131272,Technology
 232226,Entertainment
 1045,Technology
 264397,Entertainment
@@ -36174,7 +36174,7 @@ Id,Predicted
 224624,Entertainment
 245622,Entertainment
 211405,Entertainment
-34770,Technology
+34770,Business
 65843,Technology
 272946,Entertainment
 185605,Entertainment
@@ -36278,7 +36278,7 @@ Id,Predicted
 206511,Entertainment
 24909,Technology
 25827,Technology
-276506,Technology
+276506,Entertainment
 259726,Entertainment
 95324,Health
 58529,Technology
@@ -36520,7 +36520,7 @@ Id,Predicted
 275493,Entertainment
 108387,Business
 267934,Entertainment
-62442,Entertainment
+62442,Technology
 233583,Entertainment
 31922,Technology
 96708,Health
@@ -36649,7 +36649,7 @@ Id,Predicted
 10474,Technology
 243665,Entertainment
 194946,Entertainment
-207684,Technology
+207684,Entertainment
 98832,Health
 185003,Entertainment
 245600,Entertainment
@@ -36712,7 +36712,7 @@ Id,Predicted
 80934,Health
 49043,Technology
 39957,Technology
-90239,Health
+90239,Business
 228315,Entertainment
 153530,Business
 230819,Entertainment
@@ -36980,11 +36980,11 @@ Id,Predicted
 287808,Entertainment
 241627,Entertainment
 227541,Technology
-180764,Technology
+180764,Business
 16569,Technology
 15588,Technology
 234011,Entertainment
-70325,Technology
+70325,Business
 47131,Technology
 276636,Entertainment
 81341,Health
@@ -37105,7 +37105,7 @@ Id,Predicted
 244794,Entertainment
 201167,Entertainment
 48323,Technology
-24588,Technology
+24588,Entertainment
 53795,Technology
 223310,Entertainment
 31874,Technology
@@ -37208,7 +37208,7 @@ Id,Predicted
 269331,Entertainment
 239442,Entertainment
 189729,Entertainment
-73028,Entertainment
+73028,Technology
 284176,Entertainment
 284279,Entertainment
 125490,Business
@@ -37220,7 +37220,7 @@ Id,Predicted
 135484,Business
 205147,Entertainment
 9217,Technology
-143988,Technology
+143988,Business
 256908,Entertainment
 24482,Technology
 129810,Business
@@ -37563,7 +37563,7 @@ Id,Predicted
 139041,Business
 128288,Business
 273605,Entertainment
-174034,Business
+174034,Health
 195137,Entertainment
 37241,Technology
 32780,Technology
@@ -37663,7 +37663,7 @@ Id,Predicted
 239860,Entertainment
 210931,Entertainment
 230786,Entertainment
-9617,Technology
+9617,Business
 116708,Business
 7772,Technology
 3695,Technology
@@ -37865,7 +37865,7 @@ Id,Predicted
 98477,Health
 206113,Entertainment
 89581,Health
-165484,Business
+165484,Technology
 228336,Entertainment
 289476,Entertainment
 151177,Business
@@ -37970,7 +37970,7 @@ Id,Predicted
 280893,Entertainment
 2711,Technology
 13040,Technology
-69392,Technology
+69392,Business
 176031,Business
 95344,Health
 62541,Technology
@@ -38225,7 +38225,7 @@ Id,Predicted
 196247,Entertainment
 31976,Technology
 222626,Entertainment
-84525,Entertainment
+84525,Business
 211997,Entertainment
 67741,Technology
 108466,Business
@@ -38438,7 +38438,7 @@ Id,Predicted
 74981,Health
 45461,Technology
 40654,Technology
-11579,Business
+11579,Technology
 147135,Business
 11205,Technology
 281054,Entertainment
@@ -38497,7 +38497,7 @@ Id,Predicted
 207235,Entertainment
 284923,Entertainment
 288281,Entertainment
-49936,Technology
+49936,Business
 265609,Entertainment
 57216,Technology
 286610,Entertainment
@@ -38743,7 +38743,7 @@ Id,Predicted
 187664,Entertainment
 76760,Health
 275753,Entertainment
-122876,Business
+122876,Technology
 26123,Technology
 280850,Entertainment
 37893,Technology
@@ -38757,7 +38757,7 @@ Id,Predicted
 134992,Business
 246145,Entertainment
 28190,Technology
-68748,Technology
+68748,Business
 247188,Entertainment
 204757,Entertainment
 276440,Entertainment
@@ -38872,7 +38872,7 @@ Id,Predicted
 148957,Business
 190925,Entertainment
 159933,Business
-39512,Technology
+39512,Business
 39604,Technology
 255158,Entertainment
 250717,Entertainment
@@ -39396,7 +39396,7 @@ Id,Predicted
 255383,Entertainment
 192217,Entertainment
 56781,Entertainment
-187963,Entertainment
+187963,Technology
 281861,Entertainment
 208793,Entertainment
 196331,Entertainment
@@ -39445,7 +39445,7 @@ Id,Predicted
 8674,Technology
 52577,Technology
 44634,Technology
-11629,Entertainment
+11629,Technology
 259539,Entertainment
 4847,Technology
 24873,Technology
@@ -39955,7 +39955,7 @@ Id,Predicted
 186221,Entertainment
 257195,Entertainment
 25575,Technology
-147879,Technology
+147879,Business
 53451,Technology
 258952,Entertainment
 97031,Health
@@ -40361,7 +40361,7 @@ Id,Predicted
 150558,Business
 210600,Entertainment
 67084,Technology
-104380,Health
+104380,Business
 183248,Business
 261735,Entertainment
 12722,Technology
@@ -40461,9 +40461,9 @@ Id,Predicted
 67414,Technology
 140756,Business
 262489,Entertainment
-39460,Technology
+39460,Business
 283482,Entertainment
-193645,Entertainment
+193645,Business
 279276,Entertainment
 10835,Technology
 36134,Technology
@@ -40507,7 +40507,7 @@ Id,Predicted
 223247,Entertainment
 107236,Business
 100851,Health
-31877,Entertainment
+31877,Technology
 198150,Entertainment
 254962,Entertainment
 73738,Health
@@ -40546,7 +40546,7 @@ Id,Predicted
 215235,Entertainment
 261188,Entertainment
 191026,Entertainment
-88994,Business
+88994,Health
 249818,Entertainment
 148527,Business
 54736,Technology
@@ -40614,7 +40614,7 @@ Id,Predicted
 166987,Business
 13576,Technology
 30880,Technology
-21134,Health
+21134,Technology
 8619,Technology
 191244,Entertainment
 226784,Entertainment
@@ -40680,7 +40680,7 @@ Id,Predicted
 90487,Health
 233732,Entertainment
 196484,Entertainment
-24761,Technology
+24761,Business
 276817,Entertainment
 252216,Entertainment
 33640,Technology
@@ -40781,7 +40781,7 @@ Id,Predicted
 141466,Business
 175258,Business
 261155,Entertainment
-3506,Business
+3506,Technology
 209215,Entertainment
 290650,Entertainment
 191505,Entertainment
@@ -40810,7 +40810,7 @@ Id,Predicted
 51002,Technology
 105212,Business
 188764,Entertainment
-107499,Business
+107499,Technology
 61352,Technology
 138563,Business
 38781,Technology
@@ -41138,7 +41138,7 @@ Id,Predicted
 232790,Entertainment
 283623,Entertainment
 128410,Business
-77991,Technology
+77991,Health
 132710,Business
 140804,Business
 152420,Technology
@@ -41278,7 +41278,7 @@ Id,Predicted
 79105,Health
 290618,Entertainment
 280903,Entertainment
-71364,Business
+71364,Technology
 246016,Entertainment
 87884,Health
 289747,Entertainment
@@ -41522,7 +41522,7 @@ Id,Predicted
 3281,Technology
 94800,Health
 209343,Entertainment
-3099,Business
+3099,Technology
 16026,Technology
 249586,Entertainment
 210927,Entertainment
@@ -41635,7 +41635,7 @@ Id,Predicted
 21260,Technology
 228124,Entertainment
 40729,Technology
-139070,Business
+139070,Technology
 114925,Business
 124436,Business
 22823,Technology
@@ -42046,7 +42046,7 @@ Id,Predicted
 226317,Entertainment
 163631,Business
 100568,Health
-134907,Business
+134907,Technology
 74315,Health
 187179,Entertainment
 193126,Entertainment
@@ -42251,7 +42251,7 @@ Id,Predicted
 16710,Technology
 192216,Entertainment
 213480,Entertainment
-135671,Technology
+135671,Business
 63611,Technology
 81984,Health
 233226,Entertainment
@@ -42306,7 +42306,7 @@ Id,Predicted
 67415,Technology
 159262,Business
 163878,Business
-143936,Technology
+143936,Business
 289116,Entertainment
 131788,Business
 141456,Business
@@ -42419,7 +42419,7 @@ Id,Predicted
 162392,Technology
 97385,Health
 46043,Technology
-230495,Technology
+230495,Entertainment
 7217,Technology
 50318,Business
 68063,Technology
@@ -42486,7 +42486,7 @@ Id,Predicted
 266282,Entertainment
 109782,Business
 31131,Technology
-116073,Technology
+116073,Business
 31786,Technology
 10371,Technology
 33128,Technology
@@ -42502,7 +42502,7 @@ Id,Predicted
 241823,Entertainment
 250935,Entertainment
 233906,Entertainment
-113768,Business
+113768,Technology
 173825,Business
 177573,Business
 97495,Health
@@ -42528,7 +42528,7 @@ Id,Predicted
 227370,Entertainment
 223867,Entertainment
 210727,Entertainment
-92474,Entertainment
+92474,Health
 64031,Technology
 269563,Entertainment
 26210,Technology
@@ -42585,7 +42585,7 @@ Id,Predicted
 200059,Entertainment
 231544,Entertainment
 261111,Entertainment
-106112,Health
+106112,Business
 108739,Technology
 217671,Entertainment
 260537,Entertainment
@@ -42711,7 +42711,7 @@ Id,Predicted
 172033,Business
 24734,Technology
 88010,Health
-106543,Business
+106543,Technology
 71967,Technology
 109252,Business
 39745,Technology
@@ -42784,7 +42784,7 @@ Id,Predicted
 64283,Technology
 118700,Business
 7627,Technology
-221156,Business
+221156,Entertainment
 67765,Technology
 210852,Entertainment
 164864,Business
@@ -42883,7 +42883,7 @@ Id,Predicted
 186658,Entertainment
 23465,Technology
 170463,Business
-95563,Health
+95563,Business
 73069,Health
 193293,Entertainment
 248828,Entertainment
@@ -42919,7 +42919,7 @@ Id,Predicted
 182321,Business
 132809,Business
 184846,Entertainment
-31723,Business
+31723,Technology
 238555,Entertainment
 177196,Business
 123501,Business
@@ -43123,7 +43123,7 @@ Id,Predicted
 167267,Business
 8418,Technology
 167359,Business
-59007,Business
+59007,Technology
 285106,Entertainment
 167693,Business
 118628,Business
@@ -43202,7 +43202,7 @@ Id,Predicted
 243916,Entertainment
 166162,Business
 64888,Technology
-25709,Business
+25709,Technology
 110323,Technology
 144822,Business
 53964,Technology
@@ -43374,7 +43374,7 @@ Id,Predicted
 24057,Technology
 246205,Entertainment
 90601,Health
-36213,Technology
+36213,Business
 73458,Health
 2454,Technology
 135305,Business
@@ -43504,7 +43504,7 @@ Id,Predicted
 79473,Health
 265242,Entertainment
 234189,Entertainment
-67947,Technology
+67947,Entertainment
 86135,Health
 68098,Technology
 187467,Entertainment
@@ -43883,7 +43883,7 @@ Id,Predicted
 1106,Technology
 20720,Technology
 19668,Technology
-732,Entertainment
+732,Technology
 20828,Technology
 201719,Entertainment
 180168,Business
@@ -43896,7 +43896,7 @@ Id,Predicted
 281735,Entertainment
 86179,Health
 247635,Entertainment
-28574,Business
+28574,Technology
 62747,Technology
 88327,Health
 248632,Entertainment
@@ -43970,7 +43970,7 @@ Id,Predicted
 264196,Entertainment
 175553,Business
 124147,Business
-37082,Technology
+37082,Business
 188823,Entertainment
 238425,Entertainment
 9202,Technology
@@ -43998,7 +43998,7 @@ Id,Predicted
 115869,Business
 40524,Technology
 145518,Business
-82535,Business
+82535,Health
 127330,Business
 15655,Technology
 252762,Entertainment
@@ -44049,7 +44049,7 @@ Id,Predicted
 183947,Business
 189490,Entertainment
 64114,Technology
-62441,Business
+62441,Technology
 227546,Entertainment
 159572,Business
 64779,Technology
@@ -44205,7 +44205,7 @@ Id,Predicted
 273356,Entertainment
 231735,Entertainment
 186478,Entertainment
-5655,Business
+5655,Technology
 98296,Health
 287172,Entertainment
 109468,Business
@@ -44446,11 +44446,11 @@ Id,Predicted
 277675,Entertainment
 34766,Technology
 207857,Entertainment
-196643,Business
+196643,Entertainment
 258512,Entertainment
 256474,Entertainment
 91271,Health
-244406,Technology
+244406,Entertainment
 231192,Entertainment
 117826,Business
 229910,Entertainment
@@ -44533,7 +44533,7 @@ Id,Predicted
 180291,Business
 142552,Technology
 121475,Business
-136313,Technology
+136313,Business
 207237,Entertainment
 15615,Technology
 94155,Health
@@ -44808,7 +44808,7 @@ Id,Predicted
 266433,Entertainment
 546,Technology
 173806,Business
-240785,Entertainment
+240785,Business
 198791,Entertainment
 208683,Entertainment
 107443,Technology
@@ -44978,7 +44978,7 @@ Id,Predicted
 170335,Business
 176915,Business
 169456,Technology
-236267,Business
+236267,Entertainment
 30436,Technology
 144769,Business
 250916,Entertainment
@@ -44994,7 +44994,7 @@ Id,Predicted
 250723,Entertainment
 47722,Technology
 142608,Technology
-140733,Business
+140733,Technology
 219747,Entertainment
 126216,Business
 153626,Business
@@ -45116,7 +45116,7 @@ Id,Predicted
 244585,Entertainment
 215201,Entertainment
 37992,Technology
-9963,Entertainment
+9963,Technology
 92014,Health
 267581,Entertainment
 225820,Entertainment
@@ -45559,7 +45559,7 @@ Id,Predicted
 35800,Technology
 248020,Entertainment
 28504,Technology
-7658,Entertainment
+7658,Technology
 170688,Business
 45901,Technology
 2095,Technology
@@ -45644,7 +45644,7 @@ Id,Predicted
 96415,Health
 190860,Entertainment
 281119,Entertainment
-68138,Technology
+68138,Business
 170056,Business
 240989,Entertainment
 5502,Technology
@@ -46053,7 +46053,7 @@ Id,Predicted
 188873,Entertainment
 157667,Business
 79381,Health
-127159,Business
+127159,Health
 58420,Technology
 251359,Entertainment
 107104,Business
@@ -46899,7 +46899,7 @@ Id,Predicted
 225900,Entertainment
 74305,Health
 21361,Technology
-139086,Business
+139086,Technology
 263643,Entertainment
 175538,Business
 178115,Business
@@ -47316,7 +47316,7 @@ Id,Predicted
 212166,Entertainment
 96945,Health
 68434,Technology
-115675,Technology
+115675,Business
 126082,Business
 98642,Health
 48742,Technology
@@ -47517,7 +47517,7 @@ Id,Predicted
 2024,Technology
 189912,Entertainment
 95673,Health
-240725,Business
+240725,Entertainment
 261832,Entertainment
 206187,Entertainment
 266096,Entertainment
@@ -47757,7 +47757,7 @@ Id,Predicted
 241950,Entertainment
 127150,Business
 25028,Technology
-84517,Health
+84517,Entertainment
 132828,Business
 41550,Technology
 146444,Business

@@ -2,11 +2,12 @@ import pandas as pd
 
 from sklearn.metrics import jaccard_score
 import numpy as np
+import time
+from multiprocessing import Process, Queue
 
-from multiprocessing import Process
+q = Queue() 
 
-
-def worker(test, train, i):
+def worker(test, train, i, q):
 
     dups = 0
     for q1 in test:
@@ -18,6 +19,7 @@ def worker(test, train, i):
                 dups += 1
                 break
     print(i, dups)
+    q.put(dups)
 
 df_train  = pd.read_csv('../datasets/q2a/corpusTrain.csv', encoding='utf-8')
 df_train['Content'] = df_train['Content'].str.encode('ascii', 'ignore').str.decode('ascii')
@@ -39,13 +41,18 @@ for i in range(num_cores):
     to += 500
 slices[-1] = slice(4500, 5374)
 
-processes = []
+print(slices)
 
+processes = []
+total_time = time.time()
 for i in range(10):
 
-    p = Process(target=worker, args=(test[slices[i]], train, i))
+    p = Process(target=worker, args=(test[slices[i]], train, i, q))
     p.start()
     processes.append(p)
 
 for i in range(10):
     processes[i].join()
+
+#print('Duplicates: {}'.format(sum(q))) #Not iterable, just get 10 times and add.
+print('Query time: {}'.format(time.time() - total_time))
