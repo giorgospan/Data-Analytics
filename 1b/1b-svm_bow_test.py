@@ -16,7 +16,7 @@ from nltk.corpus import stopwords
 
 
 stop_words = set(stopwords.words('english'))
-with open('./extra_stopwords.txt') as f:
+with open('../extras/extra_stopwords.txt') as f:
     for line in f:
         stop_words.add(line[:-1])
 stop_words = list(stop_words)
