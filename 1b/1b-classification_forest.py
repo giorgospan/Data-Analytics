@@ -26,13 +26,13 @@ df['Title'] = df['Title'].str.encode('ascii', 'ignore').str.decode('ascii')
 df['Content'] = df['Content'].str.encode('ascii', 'ignore').str.decode('ascii')
 df['Label'] = df['Label'].str.encode('ascii', 'ignore').str.decode('ascii')
 
-df['Combined']  = df['Title'] + ' ' + df['Title'] + ' ' + df['Title'] + df['Content']
+df['Combined']  = 3*(df['Title'] + ' ')  + df['Content']
 #---------------------------------------------------------------------
 
 #--------- INITIALIZATIONS -------------
 le = preprocessing.LabelEncoder()
 y = le.fit_transform(df['Label'])
-clf = RandomForestClassifier(n_estimators=50, max_depth=5, random_state=42)
+clf = RandomForestClassifier(n_estimators=100, max_depth=18, random_state=42)
 #----------------------------------------
 
 
