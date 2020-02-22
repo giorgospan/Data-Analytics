@@ -28,41 +28,7 @@ df['Content'] = df['Content'].str.encode('ascii', 'ignore').str.decode('ascii')
 df['Label'] = df['Label'].str.encode('ascii', 'ignore').str.decode('ascii')
 #---------------------------------------------------------------------
 
-#--------------- HELPER FUNCTIONS -------------------
-# def remove_punkt(s):
-#     global punkt
-#     for letter in s:
-#         if letter in punkt:
-#             return False
-#     return True
-
-# def is_not_stop_word(word):
-#     global stop_words
-#     return word not in stop_words
-#----------------------------------------------------
-
-# for index, row in df.iterrows():
-#     title = row['Title']
-#     content = row['Content']
-#     label = row['Label']
-
-#     toAdd = ''
-
-#     words = word_tokenize(title)
-#     words = filter(remove_punkt, words)
-#     words = filter(is_not_stop_word, words)
-#     toAdd += (' '.join(words))*20
-
-#     toAdd += ' '
-
-#     words = word_tokenize(content)
-#     words = filter(remove_punkt, words)
-#     words = filter(is_not_stop_word, words)
-#     toAdd += ' '.join(words)
-
-#     wordcloud_dict[label].append(toAdd)
-
-df['Content'] = 20*df['Title']+df['Content']
+df['Content'] = 20*(df['Title'] + ' ') + df['Content']
 
 df['Content'] = df['Content'].apply(lambda x:re.sub(r'[^\w\s]',' ',x))
 df['Content'] = df['Content'].apply(word_tokenize)

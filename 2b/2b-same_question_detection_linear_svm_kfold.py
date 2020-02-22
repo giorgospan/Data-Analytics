@@ -5,6 +5,7 @@ import time
 
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.svm import LinearSVC
+from sklearn.ensemble import RandomForestClassifier
 from sklearn.model_selection import KFold
 from sklearn.metrics import accuracy_score
 from sklearn.metrics import precision_score
@@ -19,7 +20,7 @@ from sklearn import preprocessing
 df_train  = pd.read_csv('../datasets/q2b/train.csv', encoding='utf-8')
 df_train['Question1'] = df_train['Question1'].str.encode('ascii', 'ignore').str.decode('ascii').str.lower().str.replace('[^\w\s]','')
 df_train['Question2'] = df_train['Question2'].str.encode('ascii', 'ignore').str.decode('ascii').str.lower().str.replace('[^\w\s]','')
-df_train['Combined'] = df_train['Question1'] #+ ' ' + df_train['Question2']
+df_train['Combined'] = df_train['Question1']
 df_train['Combined'].append(df_train['Question2'])
 #---------------------------------------------------------------------
 
