@@ -39,4 +39,4 @@ predictions = clf.predict(X_test)
 predictions = le.inverse_transform(predictions)
 
 result = pd.DataFrame({'Id':df_test['Id'],'Predicted':predictions})
-result.to_csv('imdb_test.csv', sep=',', index=False)
+result.to_csv('sentiment_predictions.csv', sep=',', index=False)
